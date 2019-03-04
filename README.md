@@ -1,4 +1,4 @@
-## Welcome to Eyekron's Github Pages
+## Eyekron's Github Pages
 
 ```markdown
 Syntax highlighted code block
